@@ -1,0 +1,6 @@
+{
+  "name": "SmartBus",
+  "description": "Smart Bus Time Management System using GPS for CAS Chelakkara - Live tracking, dynamic timing, driver trips, and fleet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
